@@ -13,6 +13,8 @@ def banner():
 if __name__ == "__main__":
     banner()
     # --- ADD YOUR GREETING BELOW THIS LINE ---
-    print("Hello from tommydavies-byte")  #this is a greeting from me
+    # ---this greeting identifies my username ---
+    # --- # Display my personalised greeting for the SCCM4910 teamwork exercise.
+    print("Hello from perersexcel-bot")  #this is a greeting from me
                                           #this is a test comment
 
